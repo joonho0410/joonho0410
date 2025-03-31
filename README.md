@@ -107,6 +107,8 @@
 
 레벨별 100문제 풀기 도전중 ! ➡ https://github.com/joonho0410/PS
 #### ✨ Programmers PCCP
+
+Programmers 사이트에서 주최하는 PCCP 알고리즘 인증시험
 <img src="https://github.com/user-attachments/assets/0862f4e1-83e0-4f18-8683-2778c67e317c" width="244" alt="image"/>
 
 #### ✨ TypeScript Challenge
