@@ -79,7 +79,7 @@
 --- 
 
 
-#### ✨ klkl Refactoring
+### ✨ klkl Refactoring
 🔗 **github**  : [klkl 리팩토링](https://github.com/seoulyego/klkl-client-refactor)
 
 📅 **프로젝트 기간** : 2025.02 ~ 현재 작업 중
