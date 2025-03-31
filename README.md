@@ -24,7 +24,7 @@
 
 # 🚀 Projects
 ### ✨ 42GG
-🔗 **github** : [42GG Github](https://github.com/42organization)
+🔗 **github** : [42GG Github](https://github.com/42organization/42gg.client)
 
 📅 **프로젝트 기간** : 2023.12 ~ 2024.03 (3 개월 )
 
