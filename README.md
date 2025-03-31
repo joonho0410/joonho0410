@@ -2,7 +2,7 @@
 
 ⭐️ [Visit My Blog on Velog](https://velog.io/@joonho0410/posts)
 
-## 🚀 Stacks
+# 🚀 Stacks
 #### ✨ Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </div>
 
-## 🚀 Projects
+# 🚀 Projects
 ### ✨ 42GG
 🔗 **github** : [42GG Github](https://github.com/42organization)
 
@@ -79,7 +79,7 @@
 --- 
 
 
-## ✨ klkl Refactoring
+#### ✨ klkl Refactoring
 🔗 **github**  : [klkl 리팩토링](https://github.com/seoulyego/klkl-client-refactor)
 
 📅 **프로젝트 기간** : 2025.02 ~ 현재 작업 중
@@ -101,7 +101,7 @@
 💻 **작업내용 블로그**
 - Promise.all 을 사용한 네트워크 요청 개선 ➡️ [블로그 글 보기](https://velog.io/@joonho0410/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0)
  
-## 🚀 PS
+# 🚀 PS
 #### ✨ BOJ
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joonho0410)](https://solved.ac/joonho0410/)
 
