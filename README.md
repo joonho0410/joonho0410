@@ -101,10 +101,13 @@
 💻 **작업내용 블로그**
 - Promise.all 을 사용한 네트워크 요청 개선 ➡️ [블로그 글 보기](https://velog.io/@joonho0410/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0)
  
-# 🚀 PS
+# 🚀 그 외 활동들
 #### ✨ BOJ
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joonho0410)](https://solved.ac/joonho0410/)
 
 레벨별 100문제 풀기 도전중 ! ➡ https://github.com/joonho0410/PS
 #### ✨ Programmers PCCP
 <img src="https://github.com/user-attachments/assets/0862f4e1-83e0-4f18-8683-2778c67e317c" width="244" alt="image"/>
+
+#### ✨ TypeScript Challenge
+[TypeScript Challenges](https://github.com/type-challenges/type-challenges) 사이트에서 문제 풀이 ➡️ [타입스크립트 챌린지 레포](https://github.com/joonho0410/Practice_TS)
