@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Jeon%20Junho&fontAlign=70)
 
-## 🚀 Blog   👉   [Visit My Blog on Velog](https://velog.io/@joonho0410/posts)
+⭐️ [Visit My Blog on Velog](https://velog.io/@joonho0410/posts)
 
 ## 🚀 Stacks
 #### ✨ Languages
@@ -32,7 +32,7 @@
 
 ## 🚀 PS
 #### ✨ BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joonho0410)](https://solved.ac/joonho0410/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joonho0410)](https://solved.ac/joonho0410/)
 
 레벨별 100문제 풀기 도전중 ! ➡ https://github.com/joonho0410/PS
 #### ✨ Programmers PCCP
