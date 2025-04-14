@@ -110,7 +110,8 @@
 
 Programmers 사이트에서 주최하는 PCCP 알고리즘 인증시험
 
-<img src="https://github.com/user-attachments/assets/0862f4e1-83e0-4f18-8683-2778c67e317c" width="244" alt="image"/>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/6a004fa0-0c39-4594-9f8c-519842f0df51" />
+
 
 #### ✨ TypeScript Challenge
 [TypeScript Challenges](https://github.com/type-challenges/type-challenges) 사이트에서 문제 풀이 ➡️ [타입스크립트 챌린지 레포](https://github.com/joonho0410/Practice_TS)
