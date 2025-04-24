@@ -106,6 +106,9 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joonho0410)](https://solved.ac/joonho0410/)
 
 레벨별 100문제 풀기 도전중 ! ➡ [알고리즘 레포](https://github.com/joonho0410/PS)
+
+~ 2025.4. 24 (~G3 까지 완료)
+
 #### ✨ Programmers PCCP
 
 Programmers 사이트에서 주최하는 PCCP 알고리즘 인증시험
