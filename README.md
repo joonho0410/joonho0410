@@ -97,7 +97,11 @@
 
 ### ✨ ChessProfileCard
 
-![Chess Profile](https://chess-profile-card-oj3kazv08-junhjeons-projects.vercel.app/card/junhjeon)
+📅 **프로젝트 기간** : 하루
+
+Chess.com의 프로필을 보여줍니다.
+
+![Chess Profile](https://chess-profile-card.vercel.app/card/hikaru)
 
 📝 **한일**
   - 네트워크 요청 개선
