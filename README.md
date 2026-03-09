@@ -109,7 +109,7 @@
 
 Chess.com의 프로필을 보여줍니다.
 
-![Chess Profile](https://chess-profile-card.vercel.app/card/hikaru)
+![Chess Profile](https://chess-profile-card.vercel.app/card/magnusCarlsen)
 
 # 🚀 그 외 활동들
 #### ✨ BOJ
