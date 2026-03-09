@@ -95,6 +95,8 @@
   <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
 </span>
 
+---
+
 ### ✨ ChessProfileCard
 
 📅 **프로젝트 기간** : 하루
