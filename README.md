@@ -95,7 +95,13 @@
   <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
 </span>
 
----
+📝 **한일**
+  - 네트워크 요청 개선
+
+💻 **작업내용 블로그**
+- Promise.all 을 사용한 네트워크 요청 개선 ➡️ [블로그 글 보기](https://velog.io/@joonho0410/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0)
+
+ ---
 
 ### ✨ ChessProfileCard
 
@@ -105,12 +111,6 @@ Chess.com의 프로필을 보여줍니다.
 
 ![Chess Profile](https://chess-profile-card.vercel.app/card/hikaru)
 
-📝 **한일**
-  - 네트워크 요청 개선
-
-💻 **작업내용 블로그**
-- Promise.all 을 사용한 네트워크 요청 개선 ➡️ [블로그 글 보기](https://velog.io/@joonho0410/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0)
- 
 # 🚀 그 외 활동들
 #### ✨ BOJ
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joonho0410)](https://solved.ac/joonho0410/)
