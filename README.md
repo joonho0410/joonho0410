@@ -95,6 +95,10 @@
   <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
 </span>
 
+### ✨ ChessProfileCard
+
+![Chess Profile](https://chess-profile-card-oj3kazv08-junhjeons-projects.vercel.app/card/junhjeon)
+
 📝 **한일**
   - 네트워크 요청 개선
 
